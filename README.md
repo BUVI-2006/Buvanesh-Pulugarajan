@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Buvanesh Pulugarajan</h1>
 <h3 align="center">A passionate web developer and an AI enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0Gxu_qw3mY_ZZFFgAn9AA2&ust=1724147214025000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJC7r6TjgIgDFQAAAAAdAAAAABAS">
